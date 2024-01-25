@@ -1,0 +1,91 @@
+.container{
+    width: 750px;
+    height: 350px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 10px auto;
+    background-color: rgb(34, 36, 35); 
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.result{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(73, 221, 231);
+    font-size: x-large;
+}
+/* #resultValue{
+    padding: 10px;
+    width: 250px;
+    border-color: orange; */
+
+.inputFields{
+    margin-top: 20px;
+}
+#addSub{
+    display: inline-block;
+    margin-left:260px; 
+    text-align: center;
+}
+#addition{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid orange;
+    display: inline-block;
+    margin-top: 30px;   
+    margin-right: 20px;
+}
+#subtraction{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid orange;
+    display: inline-block;
+    margin-top: 20px;
+    /* background-color: rgb(215, 222, 228); */
+}
+#mulDiv{
+    display: inline-block;
+    margin-left:260px; 
+    text-align: center;
+}
+#multiplication{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid orange;
+    display: inline-block;
+    margin-top: 20px;   
+    margin-right: 20px;
+}
+#division{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid orange;
+    display: inline-block;
+    margin-top: 20px;
+}
+label{
+   color: rgb(145, 232, 235); 
+   font-size: larger;
+   font-weight: bold;
+   margin-left: 20px;
+}
+.field {
+    border: 2px solid orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 15px;
+}
